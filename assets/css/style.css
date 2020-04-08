@@ -79,6 +79,11 @@ div.row {
     margin: 8px 0;
 }
 
+div.widget {
+    text-align: center;
+    max-width: 30%;
+}
+
 div#news p,
 div#publications p {
     font-size: 14.5px;
