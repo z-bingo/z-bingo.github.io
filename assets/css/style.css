@@ -85,6 +85,12 @@ div.widget {
     width: 25%;
 }
 
+div #widget div.row{
+    margin: auto;
+    text-align: center;
+    width: 25%;
+}
+
 div#news p,
 div#publications p {
     font-size: 14.5px;
